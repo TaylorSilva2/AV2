@@ -17,7 +17,11 @@ Clone o repositório do projeto para o seu computador utilizando **Git**:
 Entre na pasta **AV2** utilizando o **Git Bash**, **CMD** ou **PowerShell**:
 
 ```bash
-cd AV2
+cd AV2 
+```
+depois
+```bash
+cd av2
 ```
 
 ## Passo 3 — Instalar as dependências
