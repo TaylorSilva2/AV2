@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link, useLocation,  Navigate } 
 import Home from "./assets/pages/Home";
 import Dashboard from "./assets/pages/Dashboard";
 import Login from "./assets/pages/Login";
-import "./app.css";
+import "./App.css";
 
 const Navbar = () => {
   const location = useLocation();
